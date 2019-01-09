@@ -1,4 +1,4 @@
 # logikk
-Our hello-world repository
+My rumination repository
 
-Place to discuss and share ideas about a framework for handling data of the Internet of Things
+Place to discuss and share ideas about software development
